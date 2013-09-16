@@ -1,5 +1,15 @@
+Attention
+=========
+This repository exists just for archival matters, there's no real use since 
+PHP_CodeSniffer already ships with a proper and modern sniffer for PSR's. Also, it
+was created with all three PSRs in mind, having a window for future 
+modifications (such as filtering between standards).
+
+So, please, contribute to http://pear.php.net/package/PHP_CodeSniffer/
+
+
 CodeSniffer for PSR's
-=========================
+=====================
 
 This is a PHP_CodeSniffer sniff to check against the PHP Standard Resolutions: [PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md), [PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md) and [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md). Those standards were approved by the [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards).
 
